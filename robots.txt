@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gulf-building-materials-iota.vercel.app/sitemap.xml
