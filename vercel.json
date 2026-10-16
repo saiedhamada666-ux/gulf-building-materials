@@ -1,1 +1,1 @@
-{}
+{"routes":[{"src":"^/$","dest":"/gulf-update/index.html"}]}
